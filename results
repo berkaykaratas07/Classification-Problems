@@ -1,0 +1,22 @@
+# Results of Classification Algorithms on Different Datasets
+
+## Bank Dataset
+
+KNN - Average Accuracy: 0.893 (+/- 0.011)
+Logistic Regression - Average Accuracy: 0.902 (+/- 0.006)
+Decision Tree - Average Accuracy: 0.873 (+/- 0.008)
+Random Forest - Average Accuracy: 0.905 (+/- 0.007)
+
+## DNA Dataset
+
+KNN: Accuracy: 0.846 (std: 0.027)
+SVM: Accuracy: 0.940 (std: 0.037)
+Random Forest: Accuracy: 0.953 (std: 0.024)
+XGBoost: Accuracy: 0.870 (std: 0.068)
+Logistic Regression: Accuracy: 0.976 (std: 0.029)
+
+## Moon Dataset
+
+KNN - Test Set Accuracy: 1.000
+RBF SVM - Test Set Accuracy: 1.000
+Linear SVM - Test Set Accuracy: 1.000
